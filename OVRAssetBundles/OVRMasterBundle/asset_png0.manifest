@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 709463013
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 21ec9bed32c6b5babcb9c8f07219903e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Oculus/VR/Textures/cube_texture.png
+- Assets/Oculus/VR/Textures/HandTracking/HandTracking_uvmap_2048.png
+- Packages/com.unity.render-pipelines.core/Editor/Volume/Icons/VolumeProfileAsset.png
+- Packages/com.unity.render-pipelines.core/Editor/Volume/Icons/Volume.png
+- Assets/Oculus/VR/Textures/OculusTouchForRift/touchController_albedo.png
+Dependencies: []
